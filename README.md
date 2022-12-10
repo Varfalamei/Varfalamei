@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Varfalamei/Varfalamei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with 2 years experience in NLP and Classical ML. 
+I am passionate and enthusiastic about ML, Data Engineering,
+Data Analysis and Backend development
 
-Here are some ideas to get you started:
+My Skill Set:
+- **General DS**: Python, Pandas, NumPy, Scikit-Learn
+- **A/B**: Bootstrapped, SciPy, StatsModels.
+- **Neural Networks**: PyTorch (Lightning).
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **NLP**: Natasha, Gensim, TorchText, nltk, Transformers, HuggingFace, BigARTM.
+- **MLOps/DevOps**: Linux, Git, Docker, FastAPI, Docker-compose, AirFlow, Nexus, Jenkins, MLFlow, DVC.
+- **Other**: SQL, PySpark, Hadoop, REST API, Swagger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me: [tg@Varfalamei13](https://t.me/Varfalamei13)
