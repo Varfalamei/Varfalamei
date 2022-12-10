@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Data Scientist with 2 years experience in NLP and Classical ML. 
+💭 I'm a Data Scientist with 2 years experience in NLP and Classical ML. 
 I am passionate and enthusiastic about ML, Data Engineering,
 Data Analysis and Backend development
 
-My Skill Set:
+📕 My Skill Set:
 - **General DS**: Python, Pandas, NumPy, Scikit-Learn
 - **A/B**: Bootstrapped, SciPy, StatsModels.
 - **Neural Networks**: PyTorch (Lightning).
