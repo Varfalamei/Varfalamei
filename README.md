@@ -7,11 +7,12 @@ Data Analysis and Backend development
 📕 My Skill Set:
 - **General DS**: Python, Pandas, NumPy, Scikit-Learn
 - **A/B**: Bootstrapped, SciPy, StatsModels.
-- **Neural Networks**: PyTorch (Lightning).
+- **Neural Networks**: Tensorflow.
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **NLP**: Natasha, Gensim, TorchText, nltk, Transformers, HuggingFace, BigARTM.
-- **MLOps/DevOps**: Linux, Git, Docker, FastAPI, Docker-compose, AirFlow, Nexus, Jenkins, MLFlow, DVC.
-- **Other**: SQL, PySpark, Hadoop, REST API, Swagger.
+- **CV**: Yolo, Deepsort.
+- **MLOps/DevOps**: Linux, Git, Docker, FastAPI, Docker-compose, terraform.
+- **Other**: SQL, PySpark, Hadoop, REST API, Swagger, C++, mediapipe, fsspec, tflite.
 
 
 📫 How to reach me: [tg@Varfalamei13](https://t.me/Varfalamei13)
