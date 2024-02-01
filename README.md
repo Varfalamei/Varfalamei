@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💭 I'm a Data Scientist with 2 years experience in CV, NLP and Classical ML. 
+💭 I'm a Data Scientist with 3 years experience in CV, NLP and Classical ML. 
 I am passionate and enthusiastic about ML, Data Engineering,
 Data Analysis and Backend development
 
