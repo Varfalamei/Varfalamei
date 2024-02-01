@@ -15,4 +15,4 @@ Data Analysis and Backend development
 - **Other**: SQL, PySpark, Hadoop, REST API, Swagger, C++, mediapipe, fsspec, tflite.
 
 
-📫 How to reach me: [tg@Varfalamei13](https://t.me/Varfalamei13)
+📫 How to reach me: [tg@Varfalamei13](https://t.me/Varfalamei13) or [Linkedin@varfalamei](https://www.linkedin.com/in/varfalamei/)
